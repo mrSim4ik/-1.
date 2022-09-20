@@ -1,0 +1,15 @@
+C:\Users\dimss\Desktop\C#\Practic №1\bin\Debug\net6.0\Practic №1.exe
+C:\Users\dimss\Desktop\C#\Practic №1\bin\Debug\net6.0\Practic №1.deps.json
+C:\Users\dimss\Desktop\C#\Practic №1\bin\Debug\net6.0\Practic №1.runtimeconfig.json
+C:\Users\dimss\Desktop\C#\Practic №1\bin\Debug\net6.0\Practic №1.dll
+C:\Users\dimss\Desktop\C#\Practic №1\bin\Debug\net6.0\Practic №1.pdb
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\Practic №1.csproj.AssemblyReference.cache
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\Practic №1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\Practic №1.AssemblyInfoInputs.cache
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\Practic №1.AssemblyInfo.cs
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\Practic №1.csproj.CoreCompileInputs.cache
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\Practic №1.dll
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\refint\Practic №1.dll
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\Practic №1.pdb
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\Practic №1.genruntimeconfig.cache
+C:\Users\dimss\Desktop\C#\Practic №1\obj\Debug\net6.0\ref\Practic №1.dll
